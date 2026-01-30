@@ -21,6 +21,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-01-30-파이썬-리스트-컴프리헨션-및-필터-효율](python/2026-01-30-파이썬-리스트-컴프리헨션-및-필터-효율.md)
+
 </details>
 <br>
 
