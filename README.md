@@ -12,14 +12,22 @@
 ### 📂 지식 카테고리
 
 <details>
-<summary style="font-size: 16px;"><strong>n8n (전체 보기)</strong></summary>
+  <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
 - [Discord Trigger 실시간 감지 설정](n8n/2026-01-30-setup.md)
 - [커뮤니티 노드 설치 가이드](n8n/2026-01-28-install.md)
 </details>
+<br>
 
 <details>
-<summary style="font-size: 16px;"><strong>Python (전체 보기)</strong></summary>
+  <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
+
+- [비전공자 대상 파이썬 환경 구축](python/2026-01-25-env.md)
+</details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
 - [비전공자 대상 파이썬 환경 구축](python/2026-01-25-env.md)
 </details>
@@ -38,9 +46,9 @@
 
 **디렉토리 구조**
 
-- [`n8n/`](#n8n): 워크플로우 설계 및 노드 활용 전략
-- [`python/`](#python): 파이썬 문법 및 강의용 라이브러리 분석
-- [`ai-agent/`](#ai-agent): LLM 프롬프트 설계 및 에이전트 구축
+- `n8n/`: 워크플로우 설계 및 노드 활용 전략
+- `python/`: 파이썬 문법 및 강의용 라이브러리 분석
+- `ai-agent/`: LLM 프롬프트 설계 및 에이전트 구축
 
 **문서 내부 양식**
 
