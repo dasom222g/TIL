@@ -14,8 +14,6 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
-- [2026-01-30-n8n-구글-드라이브-바이너리-파일-업로드-문제](n8n/2026-01-30-n8n-구글-드라이브-바이너리-파일-업로드-문제.md)
-
 </details>
 <br>
 
