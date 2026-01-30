@@ -14,22 +14,18 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
-- [Discord Trigger 실시간 감지 설정](n8n/2026-01-30-setup.md)
-- [커뮤니티 노드 설치 가이드](n8n/2026-01-28-install.md)
 </details>
 <br>
 
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
-- [비전공자 대상 파이썬 환경 구축](python/2026-01-25-env.md)
 </details>
 <br>
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
-- [비전공자 대상 파이썬 환경 구축](python/2026-01-25-env.md)
 </details>
 
 ---
