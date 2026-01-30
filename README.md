@@ -13,11 +13,6 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
-
-- [2026-01-30-구글-드라이브-노드-바이너리-파일-업로드](n8n/2026-01-30-구글-드라이브-노드-바이너리-파일-업로드.md)
-
-- [2026-01-30-Google-Drive-노드-바이너리-파일명-문제해결](n8n/2026-01-30-Google-Drive-노드-바이너리-파일명-문제해결.md)
-
 </details>
 <br>
 
