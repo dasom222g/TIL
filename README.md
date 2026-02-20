@@ -14,10 +14,6 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
-- [2026-02-20-DuckDNS-Caddy-Ngrok-인증서-발급-전략-변경](n8n/2026-02-20-DuckDNS-Caddy-Ngrok-인증서-발급-전략-변경.md)
-
-- [2026-02-20-n8n-셀프호스팅-DuckDNS-문제-해결](n8n/2026-02-20-n8n-셀프호스팅-DuckDNS-문제-해결.md)
-
 - [2026-02-09-n8n-디스코드-메시지-자동-변환-및-푸시-워크플로우](n8n/2026-02-09-n8n-디스코드-메시지-자동-변환-및-푸시-워크플로우.md)
 
 - [2026-01-30-n8n-JSON-정규표현식-처리](n8n/2026-01-30-n8n-JSON-정규표현식-처리.md)
