@@ -14,6 +14,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-02-20-DuckDNS-SSL-인증서-발급-문제-해결](n8n/2026-02-20-DuckDNS-SSL-인증서-발급-문제-해결.md)
+
 - [2026-02-20-DuckDNS-인증서-발급-오류-해결](n8n/2026-02-20-DuckDNS-인증서-발급-오류-해결.md)
 
 - [2026-02-20-n8n서버-배포중-DuckDNS-Lets-Encrypt-CAA-오류](n8n/2026-02-20-n8n서버-배포중-DuckDNS-Lets-Encrypt-CAA-오류.md)
